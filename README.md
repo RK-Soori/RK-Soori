@@ -1,15 +1,22 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Kavinda+Sooriyaarachchi+%F0%9F%91%8B;Full-Stack+%26+Embedded+Systems+Developer;Building+AI+%26+Assistive+Technologies;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <a href="https://rk-soori.github.io/portfolio_site/">
+    <img src="https://raw.githubusercontent.com/RK-Soori/RK-Soori/main/assets/avatar.jpg" width="160" height="160" style="border-radius: 50%; border: 3px solid #38bdf8; box-shadow: 0 0 20px rgba(56, 189, 248, 0.4); margin-bottom: 12px;" alt="Kavinda Sooriyaarachchi" />
+  </a>
+  <br />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Kavinda+Sooriyaarachchi+%F0%9F%91%8B;Computer+Engineering+Undergraduate;Full-Stack+%26+Embedded+Systems+Developer;Building+AI+%26+Assistive+Technologies!" alt="Typing SVG" />
 </div>
 
 <h3 align="center">Crafting accessible hardware, intelligent AI systems, and modern web applications.</h3>
 
 <p align="center">
-  <a href="mailto:kavindasooriyaarachchi@gmail.com">
-    <img src="https://img.shields.io/badge/Email-kavindasooriyaarachchi%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  <a href="https://rk-soori.github.io/portfolio_site/">
+    <img src="https://img.shields.io/badge/Live_Portfolio-Soori.Dev-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://github.com/RK-Soori">
-    <img src="https://img.shields.io/badge/GitHub-RK--Soori-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://www.linkedin.com/in/kavi-soori-19a46b224">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:kavindasooriyaarachchi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
@@ -17,6 +24,7 @@
 
 ### 💫 About Me
 
+- 🎓 **Education**: Computer Engineering Undergraduate passionate about robotics, embedded systems, and full-stack software.
 - 🔭 **Currently Building**: Accessible hardware systems (like an ESP32 voice-guided chess system for the visually impaired) and AI candidate triage tools.
 - 💡 **Passionate About**: Assistive technology, human-computer interaction, and full-stack software architecture.
 - 🛠️ **Core Strengths**: TypeScript/JavaScript full-stack, Python (Flask, AI/Transformers), Embedded Systems (ESP32/C++), and Android (Kotlin).
@@ -59,5 +67,5 @@
 ---
 
 <div align="center">
-  <sub>⭐ Designed with care for <b>Kavinda Sooriyaarachchi</b></sub>
+  <sub>🌐 Explore my full portfolio at <a href="https://rk-soori.github.io/portfolio_site/"><b>Soori.Dev</b></a> • Designed with care for <b>Kavinda Sooriyaarachchi</b></sub>
 </div>
