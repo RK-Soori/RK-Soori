@@ -1,8 +1,4 @@
 <div align="center">
-  <a href="https://rk-soori.github.io/portfolio_site/">
-    <img src="https://raw.githubusercontent.com/RK-Soori/RK-Soori/main/assets/avatar.jpg" width="160" height="160" style="border-radius: 50%; border: 3px solid #38bdf8; box-shadow: 0 0 20px rgba(56, 189, 248, 0.4); margin-bottom: 12px;" alt="Kavinda Sooriyaarachchi" />
-  </a>
-  <br />
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Kavinda+Sooriyaarachchi+%F0%9F%91%8B;Computer+Engineering+Undergraduate;Full-Stack+%26+Embedded+Systems+Developer;Building+AI+%26+Assistive+Technologies!" alt="Typing SVG" />
 </div>
 
